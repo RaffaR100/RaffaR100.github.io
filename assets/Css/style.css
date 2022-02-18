@@ -210,7 +210,9 @@ span {
   margin: auto;
 }
 .container2 {
-  margin-left: 150px;
+  margin-left: 24%;
+
+  float: center;
 }
 
 #form {
